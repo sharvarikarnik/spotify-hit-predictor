@@ -179,7 +179,7 @@ Built as a portfolio project to demonstrate end-to-end data analytics skills —
 from raw data ingestion through exploratory analysis, machine learning, and
 interactive data product design.
 
-📎 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+📎 Connect with me on [LinkedIn](https://linkedin.com/in/sharvarikarnik25)
 
 ---
 
