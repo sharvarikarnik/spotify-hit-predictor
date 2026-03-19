@@ -24,7 +24,7 @@ The project includes full exploratory analysis, a trained machine learning model
 
 ## 🚀 Live Demo
 
-👉 **[Try the live app](https://your-app.streamlit.app)**
+👉 **[Try the live app](https://spotify-hit-predictor-app.streamlit.app)**
 
 ---
 
