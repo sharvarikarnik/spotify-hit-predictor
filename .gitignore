@@ -1,4 +1,3 @@
-outputs/models/*.pkl
 data/raw/
 __pycache__/
 .env
