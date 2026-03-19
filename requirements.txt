@@ -1,12 +1,8 @@
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 xgboost
-jupyter
-ipykernel
-tqdm
+plotly
 streamlit==1.32.0
 altair==5.2.0
-plotly
+tqdm
